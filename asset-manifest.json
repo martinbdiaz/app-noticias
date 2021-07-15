@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/app-noticias/static/css/main.227fd32a.chunk.css",
+    "main.js": "/app-noticias/static/js/main.8d0f4277.chunk.js",
+    "main.js.map": "/app-noticias/static/js/main.8d0f4277.chunk.js.map",
+    "runtime-main.js": "/app-noticias/static/js/runtime-main.96087517.js",
+    "runtime-main.js.map": "/app-noticias/static/js/runtime-main.96087517.js.map",
+    "static/js/2.7e63ba3e.chunk.js": "/app-noticias/static/js/2.7e63ba3e.chunk.js",
+    "static/js/2.7e63ba3e.chunk.js.map": "/app-noticias/static/js/2.7e63ba3e.chunk.js.map",
+    "index.html": "/app-noticias/index.html",
+    "static/css/main.227fd32a.chunk.css.map": "/app-noticias/static/css/main.227fd32a.chunk.css.map",
+    "static/js/2.7e63ba3e.chunk.js.LICENSE.txt": "/app-noticias/static/js/2.7e63ba3e.chunk.js.LICENSE.txt",
+    "static/media/magnifying-glass.2901faed.png": "/app-noticias/static/media/magnifying-glass.2901faed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96087517.js",
+    "static/js/2.7e63ba3e.chunk.js",
+    "static/css/main.227fd32a.chunk.css",
+    "static/js/main.8d0f4277.chunk.js"
+  ]
+}
